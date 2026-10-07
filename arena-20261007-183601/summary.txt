@@ -1,0 +1,8 @@
+run folder:            C:\Users\Ayaz\team-r2-d2\pickup-bot\pickup-bot\laptop\runs\arena-20261007-183601
+duration:              6.2 s   (frames while running: 0)
+camera fps:            avg 0.0, min 0.0
+robot not seen:        0.0 % of frames
+keep-out warnings:     0 frames with the robot > 5 mm over a lane edge
+arrivals:              none
+route settings:        lane_follow BASE_PWM 130 K_HEAD 0.35 K_RATE 0.1 K_CROSS 0.1 LATENCY_S 0.15
+roam settings:         BASE_SPEED 140 KP 1.0 KD 0.05 PIVOT_DEG 55 NEED_MM 85 LOOK_MM 300 TURN_COST 20

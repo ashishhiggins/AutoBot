@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32",
+  "hardwareFolders": "C:\\Users\\Ayaz\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8,C:\\Users\\Ayaz\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8",
+  "otherLibrariesFolders": "C:\\Users\\Ayaz\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\Ayaz\\team-r2-d2\\pickup-bot\\pickup-bot\\firmware\\robot_main"
+}
